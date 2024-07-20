@@ -1,0 +1,1004 @@
+.mediaViewInfo {
+	--web-view-name: Web 1920 – 1;
+	--web-view-id: Web_1920__1;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-double-click: true;
+	--web-center-horizontally: true;
+	--web-show-by-media-query: true;
+	--web-enable-deep-linking: true;
+	--web-page-font: arial; times;
+}
+:root {
+	--web-view-ids: Web_1920__1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Web_1920__1 {
+	position: absolute;
+	width: 1664px;
+	height: 6898px;
+	font-family: arial; times;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Web 1920 – 1;
+	--web-view-id: Web_1920__1;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-double-click: true;
+	--web-center-horizontally: true;
+	--web-show-by-media-query: true;
+	--web-enable-deep-linking: true;
+	--web-page-font: arial; times;
+}
+#Termin_Tracker_NOTIFPRO_Mthode {
+	left: 370px;
+	top: 30px;
+	position: absolute;
+	overflow: visible;
+	width: 840px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Times New Roman, arial; times;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 36px;
+	color: rgba(230,30,57,1);
+}
+#Visite_le_site_web__ {
+	left: 379px;
+	top: 241px;
+	position: absolute;
+	overflow: visible;
+	width: 301px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI, arial; times;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(112,112,112,1);
+}
+#Ligne_8 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ligne_8 {
+	overflow: visible;
+	position: absolute;
+	width: 832.238px;
+	height: 1px;
+	left: 377.616px;
+	top: 216.852px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#httpswwwtermin-tracker-allcom {
+	left: 529px;
+	top: 288px;
+	position: absolute;
+	overflow: visible;
+	width: 512px;
+	height: 39px;
+	text-align: center;
+	font-family: Segoe UI, arial; times;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#Capture_1 {
+	position: absolute;
+	width: 786px;
+	height: 904px;
+	left: 401px;
+	top: 353px;
+	overflow: visible;
+}
+#__ {
+	left: 911px;
+	top: 234px;
+	position: absolute;
+	overflow: visible;
+	width: 301px;
+	height: 57px;
+	text-align: right;
+	font-family: Segoe UI, arial; times;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(112,112,112,1);
+}
+#Capture_2 {
+	position: absolute;
+	width: 786px;
+	height: 910px;
+	left: 401px;
+	top: 1310px;
+	overflow: visible;
+}
+#Groupe_18 {
+	position: absolute;
+	width: 123.154px;
+	height: 101.899px;
+	left: 436px;
+	top: 1435px;
+	overflow: visible;
+}
+#Union_2 {
+	fill: rgba(245,19,19,1);
+	stroke: rgba(114,239,69,0.859);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Union_2 {
+	overflow: visible;
+	position: absolute;
+	width: 80.986px;
+	height: 30.491px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,39.7511,54.1824) rotate(28deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#ID1 {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 39px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Serifa BT, arial; times;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 72px;
+	color: rgba(249,6,6,1);
+}
+#Groupe_19 {
+	position: absolute;
+	width: 115.69px;
+	height: 86.857px;
+	left: 1035.31px;
+	top: 1442.521px;
+	overflow: visible;
+}
+#Union_1 {
+	fill: rgba(245,19,19,1);
+	stroke: rgba(114,239,69,0.859);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Union_1 {
+	overflow: visible;
+	position: absolute;
+	width: 75.37px;
+	height: 28.377px;
+	transform: translate(0px, -0.384px) matrix(1,0,0,1,2.5486,45.2675) rotate(157deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#ID2 {
+	left: 80.69px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 36px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Serifa BT, arial; times;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 67px;
+	color: rgba(249,6,6,1);
+}
+#Capture_3 {
+	position: absolute;
+	width: 786px;
+	height: 867px;
+	left: 401px;
+	top: 2263px;
+	overflow: visible;
+}
+#Groupe_20 {
+	position: absolute;
+	width: 148.004px;
+	height: 95px;
+	left: 546.996px;
+	top: 2934px;
+	overflow: visible;
+}
+#Union_1_w {
+	fill: rgba(245,19,19,1);
+	stroke: rgba(114,239,69,0.859);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Union_1_w {
+	overflow: visible;
+	position: absolute;
+	width: 91.901px;
+	height: 34.601px;
+	transform: translate(-300.027px, -613.33px) matrix(1,0,0,1,300.3224,662.6258) rotate(181deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#ID3 {
+	left: 105.004px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 44px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Serifa BT, arial; times;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 82px;
+	color: rgba(249,6,6,1);
+}
+#Capture_4 {
+	position: absolute;
+	width: 786px;
+	height: 826px;
+	left: 401px;
+	top: 3188px;
+	overflow: visible;
+}
+#Groupe_21 {
+	position: absolute;
+	width: 504.947px;
+	height: 39px;
+	left: 550.053px;
+	top: 3646px;
+	overflow: visible;
+}
+#Union_1_ {
+	fill: rgba(245,19,19,1);
+	stroke: rgba(114,239,69,0.859);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Union_1_ {
+	overflow: visible;
+	position: absolute;
+	width: 267.94px;
+	height: 20.248px;
+	transform: translate(0px, -0.436px) matrix(1,0,0,1,0.1568,13.9427) rotate(181deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#nom_utilisateur {
+	left: 277.947px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 228px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Serifa BT, arial; times;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 33px;
+	color: rgba(249,6,6,1);
+}
+#Groupe_22 {
+	position: absolute;
+	width: 573.947px;
+	height: 39px;
+	left: 550.053px;
+	top: 3699px;
+	overflow: visible;
+}
+#Union_1_ba {
+	fill: rgba(245,19,19,1);
+	stroke: rgba(114,239,69,0.859);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Union_1_ba {
+	overflow: visible;
+	position: absolute;
+	width: 267.94px;
+	height: 20.248px;
+	transform: translate(0px, -0.1px) matrix(1,0,0,1,0.1568,13.9427) rotate(181deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Email_vrifier_bien {
+	left: 277.947px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 297px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Serifa BT, arial; times;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 33px;
+	color: rgba(249,6,6,1);
+}
+#Groupe_23 {
+	position: absolute;
+	width: 148.445px;
+	height: 85px;
+	left: 510.555px;
+	top: 3794px;
+	overflow: visible;
+}
+#Union_1_bb {
+	fill: rgba(245,19,19,1);
+	stroke: rgba(114,239,69,0.859);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Union_1_bb {
+	overflow: visible;
+	position: absolute;
+	width: 83.601px;
+	height: 31.477px;
+	transform: translate(-0.001px, 0.343px) matrix(1,0,0,1,0.2694,44.238) rotate(181deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#ID4 {
+	left: 109.445px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 40px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Serifa BT, arial; times;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 74px;
+	color: rgba(249,6,6,1);
+}
+#Capture_5 {
+	position: absolute;
+	width: 1404px;
+	height: 913px;
+	left: 135px;
+	top: 4085px;
+	overflow: visible;
+}
+#Groupe_26 {
+	position: absolute;
+	width: 314px;
+	height: 101.279px;
+	left: 1132.25px;
+	top: 4164.307px;
+	overflow: visible;
+}
+#Union_1_bc {
+	fill: rgba(245,19,19,1);
+	stroke: rgba(114,239,69,0.859);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Union_1_bc {
+	overflow: visible;
+	position: absolute;
+	width: 123.059px;
+	height: 23.702px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,39.9194,53.5751) rotate(156deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Email_vrifier_bien_bb {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 315px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Serifa BT, arial; times;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(249,6,6,1);
+}
+#Groupe_24 {
+	position: absolute;
+	width: 517.954px;
+	height: 447.706px;
+	left: 467px;
+	top: 4383.294px;
+	overflow: visible;
+}
+#Rectangle_5 {
+	fill: transparent;
+	stroke: rgba(209,26,63,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_5 {
+	position: absolute;
+	overflow: visible;
+	width: 115px;
+	height: 56px;
+	left: 0px;
+	top: 391.706px;
+}
+#Ligne_2 {
+	fill: transparent;
+	stroke: rgba(242,10,10,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ligne_2 {
+	overflow: visible;
+	position: absolute;
+	width: 336.528px;
+	height: 3px;
+	left: 114.846px;
+	top: 419.695px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Ligne_3 {
+	fill: transparent;
+	stroke: rgba(242,10,10,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ligne_3 {
+	overflow: visible;
+	position: absolute;
+	width: 65.857px;
+	height: 407.6px;
+	left: 448.374px;
+	top: 15.518px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Polygone_1 {
+	fill: rgba(242,11,11,1);
+}
+.Polygone_1 {
+	overflow: visible;
+	position: absolute;
+	width: 9.858px;
+	height: 16.43px;
+	transform: translate(-0.261px, 0px) matrix(1,0,0,1,507.0049,0.7311) rotate(10deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Groupe_27 {
+	position: absolute;
+	width: 870.467px;
+	height: 388.589px;
+	left: 253px;
+	top: 4472.411px;
+	overflow: visible;
+}
+#Rectangle_6 {
+	fill: transparent;
+	stroke: rgba(30,197,58,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_6 {
+	position: absolute;
+	overflow: visible;
+	width: 204px;
+	height: 47px;
+	left: 0px;
+	top: 341.589px;
+}
+#Ligne_4 {
+	fill: transparent;
+	stroke: rgba(30,197,58,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ligne_4 {
+	overflow: visible;
+	position: absolute;
+	width: 495.767px;
+	height: 29.443px;
+	left: 202.623px;
+	top: 360.152px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Groupe_10 {
+	position: absolute;
+	width: 175.233px;
+	height: 360.152px;
+	left: 695.234px;
+	top: 0px;
+	overflow: visible;
+}
+#Ligne_5 {
+	fill: transparent;
+	stroke: rgba(30,197,58,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ligne_5 {
+	overflow: visible;
+	position: absolute;
+	width: 168.298px;
+	height: 349.027px;
+	left: 0px;
+	top: 15.123px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Polygone_2 {
+	fill: rgba(30,197,58,1);
+}
+.Polygone_2 {
+	overflow: visible;
+	position: absolute;
+	width: 9.858px;
+	height: 16.43px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,162.6565,1.2482) rotate(22deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Groupe_25 {
+	position: absolute;
+	width: 743.825px;
+	height: 432.197px;
+	left: 253px;
+	top: 4326.803px;
+	overflow: visible;
+}
+#Groupe_9 {
+	position: absolute;
+	width: 734.666px;
+	height: 419.336px;
+	left: 0px;
+	top: 12.861px;
+	overflow: visible;
+}
+#Rectangle_4 {
+	fill: transparent;
+	stroke: rgba(26,209,165,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_4 {
+	position: absolute;
+	overflow: visible;
+	width: 575px;
+	height: 56px;
+	left: 0px;
+	top: 363.336px;
+}
+#Ligne_6 {
+	fill: transparent;
+	stroke: rgba(26,209,165,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ligne_6 {
+	overflow: visible;
+	position: absolute;
+	width: 245.659px;
+	height: 366.409px;
+	left: 491.503px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Polygone_3 {
+	fill: rgba(26,209,165,1);
+}
+.Polygone_3 {
+	overflow: visible;
+	position: absolute;
+	width: 9.858px;
+	height: 16.43px;
+	transform: translate(0.324px, 0px) matrix(1,0,0,1,730.2783,1.3596) rotate(29deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Groupe_28 {
+	position: absolute;
+	width: 141.94px;
+	height: 121.4px;
+	left: 1235.061px;
+	top: 4873.6px;
+	overflow: visible;
+}
+#Union_1_bt {
+	fill: rgba(245,19,19,1);
+	stroke: rgba(114,239,69,0.859);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Union_1_bt {
+	overflow: visible;
+	position: absolute;
+	width: 97.862px;
+	height: 36.846px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,-0.9357,28.8192) rotate(224deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#ID5 {
+	left: 95.939px;
+	top: 20.4px;
+	position: absolute;
+	overflow: visible;
+	width: 47px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Serifa BT, arial; times;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 87px;
+	color: rgba(249,6,6,1);
+}
+#Capture_6 {
+	position: absolute;
+	width: 1232px;
+	height: 700px;
+	left: 213px;
+	top: 5145px;
+	overflow: visible;
+}
+#Groupe_29 {
+	position: absolute;
+	width: 85.941px;
+	height: 120.343px;
+	left: 423.242px;
+	top: 5207px;
+	overflow: visible;
+}
+#Union_1_bx {
+	fill: rgba(245,19,19,1);
+	stroke: rgba(114,239,69,0.859);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Union_1_bx {
+	overflow: visible;
+	position: absolute;
+	width: 82.212px;
+	height: 25.212px;
+	transform: translate(0px, -0.429px) matrix(1,0,0,1,1.8644,82.8648) rotate(161deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#ID6 {
+	left: 29.758px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 44px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Serifa BT, arial; times;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 81px;
+	color: rgba(249,6,6,1);
+}
+#Groupe_30 {
+	position: absolute;
+	width: 136.281px;
+	height: 90px;
+	left: 331.11px;
+	top: 5616.687px;
+	overflow: visible;
+}
+#Union_1_b {
+	fill: rgba(245,19,19,1);
+	stroke: rgba(114,239,69,0.859);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Union_1_b {
+	overflow: visible;
+	position: absolute;
+	width: 82.212px;
+	height: 25.212px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,0.415,34.9752) rotate(178deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#ID7 {
+	left: 95.281px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 42px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Serifa BT, arial; times;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 78px;
+	color: rgba(249,6,6,1);
+}
+#Visiter_votre_boite_mail {
+	left: 250px;
+	top: 5062px;
+	position: absolute;
+	overflow: visible;
+	width: 339px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI, arial; times;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(13,12,12,1);
+}
+#Boite_de_rception_ou_SPAM {
+	left: 599px;
+	top: 5066px;
+	position: absolute;
+	overflow: visible;
+	width: 406px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI, arial; times;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(232,22,22,1);
+}
+#___ {
+	left: 1015px;
+	top: 5056px;
+	position: absolute;
+	overflow: visible;
+	width: 394px;
+	height: 53px;
+	text-align: right;
+	font-family: Segoe UI, arial; times;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(13,12,12,1);
+}
+#Rectangle_9 {
+	fill: transparent;
+	stroke: rgba(226,18,18,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_9 {
+	position: absolute;
+	overflow: visible;
+	width: 605px;
+	height: 114px;
+	left: 560px;
+	top: 5427px;
+}
+#Liens_des_chaines {
+	left: 1180px;
+	top: 5457px;
+	position: absolute;
+	overflow: visible;
+	width: 222px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI, arial; times;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(243,22,22,1);
+}
+#Groupe_32 {
+	position: absolute;
+	width: 179.914px;
+	height: 285.281px;
+	left: 930.979px;
+	top: 5554.752px;
+	overflow: visible;
+}
+#Ligne_7 {
+	fill: transparent;
+	stroke: rgba(246,8,8,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ligne_7 {
+	overflow: visible;
+	position: absolute;
+	width: 169.685px;
+	height: 273.73px;
+	left: 11.079px;
+	top: 12.076px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Polygone_4 {
+	fill: rgba(246,10,10,1);
+}
+.Polygone_4 {
+	overflow: visible;
+	position: absolute;
+	width: 18.418px;
+	height: 18.418px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,2.8662,2.8662) rotate(-23deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Groupe_31 {
+	position: absolute;
+	width: 326px;
+	height: 44px;
+	left: 930px;
+	top: 5835px;
+	overflow: visible;
+}
+#Attention {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 135px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI, arial; times;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 33px;
+	color: rgba(243,22,22,1);
+}
+# {
+	left: 255px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 72px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI, arial; times;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 33px;
+	color: rgba(243,22,22,1);
+}
+#Rectangle_10 {
+	fill: transparent;
+	stroke: rgba(252,10,10,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_10 {
+	position: absolute;
+	overflow: visible;
+	width: 348px;
+	height: 43px;
+	left: 924px;
+	top: 5839px;
+}
+#Capture_7 {
+	position: absolute;
+	width: 717px;
+	height: 584px;
+	left: 461px;
+	top: 6027px;
+	overflow: visible;
+}
+#____ {
+	left: 854px;
+	top: 5960px;
+	position: absolute;
+	overflow: visible;
+	width: 566px;
+	height: 68px;
+	text-align: right;
+	font-family: Segoe UI, arial; times;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(6,6,6,1);
+}
+#httpswwwtermin-tracker-allcom_cg {
+	left: 624px;
+	top: 6649px;
+	position: absolute;
+	overflow: visible;
+	width: 382px;
+	height: 36px;
+	text-align: center;
+	font-family: Segoe UI, arial; times;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#Les_chaines_apparaissent_sur_T {
+	left: 236px;
+	top: 5905px;
+	position: absolute;
+	overflow: visible;
+	width: 857px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI, arial; times;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(13,12,12,1);
+}
